@@ -11,3 +11,6 @@
 
 ## 分析流程
 * [信用卡盜刷偵測](https://github.com/sueshow/Com_T-brain_Fraud-Detection/blob/main/Com_%E7%8E%89%E5%B1%B1%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%85%AC%E9%96%8B%E6%8C%91%E6%88%B0%E8%B3%BD_%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%9B%9C%E5%88%B7%E5%81%B5%E6%B8%AC.ipynb)
+
+## 其他參賽者
+* [KuanHaoHuang](https://github.com/KuanHaoHuang/tbrain-esun-fraud-detection)
